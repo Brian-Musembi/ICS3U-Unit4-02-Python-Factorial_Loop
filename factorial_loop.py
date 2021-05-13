@@ -35,7 +35,7 @@ def main():
                   .format(user_input_int, product_num))
         elif user_input_int == 0:
             # output
-            print("The factorial for 0 is 1.")
+            print("0 factorial is 1.")
         else:
             # output
             print("{} is not a positive integer!"
